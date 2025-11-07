@@ -1,0 +1,25 @@
+{
+  "name": "Plano Alimentar da Nono",
+  "short_name": "Nono",
+  "description": "Planeador diário modular de refeições saudáveis para a Nono, inspirado em planos equilibrados portugueses.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5fbff",
+  "theme_color": "#9ecfff",
+  "icons": [
+    {
+      "src": "icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
